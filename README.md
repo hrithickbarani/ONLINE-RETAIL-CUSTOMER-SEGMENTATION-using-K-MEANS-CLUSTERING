@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes customer transactions from an online retail dataset to segment customers based on their purchasing behavior. We performed data cleaning, feature engineering, visualization, and KMeans clustering to derive actionable customer insights.
 
+## Download Dataset: https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
 ## Dataset Information
 The dataset contains transactions from a UK-based online retailer between **December 1, 2009, and December 9, 2011**. The company primarily sells unique all-occasion giftware, with many customers being wholesalers.
 
