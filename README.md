@@ -1,4 +1,4 @@
-# Online Retail Customer Segmentation
+# Online Retail Customer Segmentation (K-means Clustering, RFM analysis)
 
 ## Project Overview
 This project analyzes customer transactions from an online retail dataset to segment customers based on their purchasing behavior. We performed data cleaning, feature engineering, visualization, and KMeans clustering to derive actionable customer insights.
