@@ -1,7 +1,7 @@
 # Online Retail Customer Segmentation (K-means Clustering, RFM analysis)
 
 ## Project Overview
-This project analyzes customer transactions from an online retail dataset to segment customers based on their purchasing behavior. We performed data cleaning, feature engineering, visualization, and KMeans clustering to derive actionable customer insights.
+This project simulates a real-world customer segmentation analysis for **Regal Gifts Ltd.**, similar to work done at Kantar. Using historical transaction data, we segment customers based on purchasing behavior to improve targeting strategies, optimize discounts, and boost customer retention. The project involves data cleaning, feature engineering, exploratory analysis, and clustering using K-Means and RFM analysis to uncover actionable insights.
 
 ## Download Dataset: https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
