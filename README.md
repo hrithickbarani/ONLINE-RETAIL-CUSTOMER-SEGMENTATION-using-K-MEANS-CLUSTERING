@@ -3,7 +3,6 @@
 ## Project Overview
 This project simulates a real-world customer segmentation analysis for **Regal Gifts Ltd.**, similar to work done at Kantar. Using historical transaction data, we segment customers based on purchasing behavior to improve targeting strategies, optimize discounts, and boost customer retention. The project involves data cleaning, feature engineering, exploratory analysis, and clustering using K-Means and RFM analysis to uncover actionable insights.
 
-## Download Dataset: https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 ## Dataset Information
 The dataset contains transactions from a UK-based online retailer between **December 1, 2009, and December 9, 2011**. The company primarily sells unique all-occasion giftware, with many customers being wholesalers.
